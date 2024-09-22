@@ -1,6 +1,10 @@
 ### Hi I'm Mono Cardoso! ✌🏻  
   
-- 📫 How to reach me: monosodrac@gmail.com
+- 🔭 I’m a Full Stack Web Developer
+- ☕️ I'm passionate about coffee  
+- 👯 I’m looking to collaborate on Mobile Apps and Software Development  
+- 🎸 I'm also a musician  
+- 📫 How to reach me: monosodrac@gmail.com  
 
 ---
 
