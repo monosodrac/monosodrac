@@ -22,7 +22,7 @@
   <a href="https://monosodrac.vercel.app/">
     <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
-  <a href="monosodrac@gmail.com">
+  <a href="mailto:monosodrac@gmail.com">
     <img src="https://img.shields.io/badge/-monosodrac@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
