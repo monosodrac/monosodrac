@@ -31,7 +31,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Data, Security & AI enthusiast
+- 🔭 Data, Information Security & AI enthusiast
 - 🎓 Studied at [EBAC](https://ebaconline.com.br/full-stack-python) and [SENAC](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica-para-internet)
 
 ---
