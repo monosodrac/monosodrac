@@ -67,11 +67,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monosodrac&size_weight=0.5&count_weight=0.5&theme=chartreuse-dark&layout=pie" alt="commit gif looping" />
-</p>
-
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
 </p>
