@@ -11,8 +11,7 @@
 ---
 
 <p align="center">
-  I'm passionate about uncovering insights through data, protecting what matters with security, and shaping the future with artificial intelligence.
-  Here you’ll find analysis, innovation, and a drive to transform information into impact.
+  I’m particularly interested in Data Analytics, automation, and AI applications, with experience in Cybersecurity, Back-End, and Front-End development, combining technical knowledge with an analytical and problem-solving mindset.
 </p>
 
 <p align="center">
@@ -31,8 +30,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Data, Information Security & AI enthusiast
-- 🎓 Studied at [EBAC](https://ebaconline.com.br/full-stack-python) and [SENAC](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica-para-internet)
+- 🔭 Data Science, Cybersecurity & AI
 
 ---
 
@@ -40,18 +38,13 @@
 
 #### Web and Data
 
+![N8N](https://img.shields.io/badge/-N8N-333333?style=flat&logo=N8N)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=Postgresql)
 
 #### Utilities
 
+![Claude](https://img.shields.io/badge/-ClaudeAI-333333?style=flat&logo=claude)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
@@ -63,9 +56,9 @@
 
 #### Development tools
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
