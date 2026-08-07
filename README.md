@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mono Cardoso 👋</h1>
 
 <p align="center">
-  <em>Data Analytics • Information Security • Artificial Intelligence</em>
+  <em>Data Analytics • Cybersecurity • Artificial Intelligence</em>
 </p>
 
 <p align="center">
